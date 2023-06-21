@@ -16,7 +16,7 @@ To run the program, follow these steps:
 Please ensure that you have Java installed on your machine.
 
 ## Known Issues
-Currently, the software successfully builds and runs without any known issues. However, we welcome any bug reports or feature requests as we continually strive to improve the system.
+Currently, the software successfully builds and runs without any known issues. However, any bug reports or feature requests are welcome.
 
 ## Observations and Thoughts
 Creating a system to manage the delivery of COVID-19 home test kits has been a rewarding experience. This project has shown me the impact of software development in addressing real-world health issues. I've learnt a lot about Java programming and the development of robust solutions.
